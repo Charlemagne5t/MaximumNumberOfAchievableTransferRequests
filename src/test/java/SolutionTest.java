@@ -33,7 +33,7 @@ public class SolutionTest {
 
     @Test
     public void maximumRequestsTest3() {
-        int n = 3;
+        int n = 4;
         int[][] requests = {
                 {0, 3},
                 {3, 1},
